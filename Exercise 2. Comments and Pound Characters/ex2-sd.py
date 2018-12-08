@@ -1,4 +1,4 @@
-# Exercise 02: Comments and Pound Characters.
+# Exercise 02: Comments and Pound Characters - Study Drills.
 
 # A comment, this is so ypu can read your program later.
 # Anything after the # is ignored by python.
