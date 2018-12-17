@@ -19,3 +19,5 @@ Some exercises and study drills do not involve creating or modifying code, but r
 #### Missing Exercises
 * Exercise 27. Memorizing Logic
 * Exercise 28. Boolean Practice
+* Exercise 36. Designing and Debugging - WIP
+* Exercise 37. Symbol Review
