@@ -19,7 +19,7 @@ def iterate_elements(arr, name):
 
 
 animals = ['bear', 'python3.6', 'peacock', 'kangaroo', 'whale', 'platypus']
-programming_languages = ["Python", "C", "C++", "C#", "Java", "Ruby", "PHP", "Clojure", "Lisp", "FORTRAN", "JavaScript"]
+programming_languages = ["Python", "C", "C++", "C#", "Java", "Ruby", "PHP", "Clojure",  "Lisp", "FORTRAN", "JavaScript"]
 movies = ["Lord of the Rings", "Star Wars", "Matrix", "Kill Bill", "Back to the Future", "Spiderman"]
 
 iterate_elements(animals, "animal")
