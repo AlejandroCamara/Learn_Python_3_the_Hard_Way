@@ -13,3 +13,9 @@ All the exercises where made using Python 3.7.1
 * Once the exercise is completed, the changes are commited and the branch is merged into ``` master ``` branch.
 * Then, the ``` master ``` changes are pushed into ``` origin ```, this GitHub repository.
 
+## Missing Exercises and Study Drills
+Some exercises and study drills do not involve creating or modifying code, but researching or revising concepts. Therefore, they are not listed in this repository.
+
+#### Missing Exercises
+* Exercise 27. Memorizing Logic
+* Exercise 28. Boolean Practice
