@@ -1,0 +1,1 @@
+print("Work in Progress. I don't have a good idea for a game right now.")
