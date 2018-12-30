@@ -21,3 +21,4 @@ Some exercises and study drills do not involve creating or modifying code, but r
 * Exercise 28. Boolean Practice
 * Exercise 36. Designing and Debugging - WIP
 * Exercise 37. Symbol Review
+* Exercise 44. Inheritance versus Composition
