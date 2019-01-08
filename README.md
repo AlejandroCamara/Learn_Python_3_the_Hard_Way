@@ -23,3 +23,7 @@ Some exercises and study drills do not involve creating or modifying code, but r
 * Exercise 37. Symbol Review
 * Exercise 44. Inheritance versus Composition
 * Exercise 45. You Make a Game - WIP
+
+## Modules used
+* nose 1.3.7
+* Flask 1.0.2
